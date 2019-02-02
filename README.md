@@ -1,2 +1,2 @@
 # WEMOS-QRCodeByWifiHTML
-Test QRCode and wifi coding on ESP32-WEMOS
+ทดสอบการเขียน Code เพื่อรับข้อมูลผ่านทาง Wifi (ในรูปของ HTML) เพื่อไปแสดงผลบนจอ OLED ของ WEMOS ในรูปแบบ QRCode
